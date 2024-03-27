@@ -148,7 +148,7 @@ li {
 }
 
 .sec-padding {
-    padding: 70px 0;
+    padding: 50px 0;
 }
 
 button {
@@ -168,17 +168,17 @@ button {
 }
 
 .bgclr-1 {
-    border: 2px solid #fff;
-    background-color: var(--gradient-15, linear-gradient(66deg, #0575E6 7.14%, #021B7990.07%)) !important;
+    border: none !important;
+    background: var(--gradient-15, linear-gradient(66deg, #0575E6 7.14%, #021B79 90.07%)) !important;
     ;
-    color: #ffffff;
+    color: #fff !important;
 }
 
-.bgclr-1:hover {
-    border: 2px solid #fff;
+/* .bgclr-1:hover {
+    border: 2px solid #034DB5;
     background-color: #fff !important;
     color: #034DB5 !important;
-}
+} */
 
 .thm-btn:hover {
     background-color: #fff;
@@ -1126,7 +1126,7 @@ select:focus {
     ;
 }
 
-.single-service-item .text-holder p {}
+.text-holder {}
 
 
 
@@ -1313,7 +1313,7 @@ select:focus {
 
 .about-area .promotion-box {
     overflow: hidden;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 .about-area .promotion-box .singel-box {
