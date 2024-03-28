@@ -4624,7 +4624,7 @@ select:focus {
     border: 1px solid #ebdede !important;
     /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
     display: block;
-    padding: 50px 10px 40px;
+    padding: 50px 10px 20px;
 }
 
 #single-service-area .content-box .specific-services .single-item .text-holder h3 {
