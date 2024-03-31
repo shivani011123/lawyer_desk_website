@@ -105,7 +105,7 @@ h6 {
 }
 
 h3 {
-    color: #0575E6;
+    color: #034DB5;
     font-size: 20px;
     font-weight: 400;
 
@@ -182,7 +182,7 @@ button {
 
 .thm-btn:hover {
     background-color: #fff;
-    color: #0575E6;
+    color: #034DB5;
     border-color: #034DB5;
 
 }
@@ -355,7 +355,7 @@ button {
     border-radius: 12px;
     border: 1px solid var(--gradient-15, linear-gradient(66deg, #0575E6 7.14%, #021B79 90.07%)) !important;
     bottom: 25px;
-    color: #0575E6;
+    color: #034DB5;
     cursor: pointer;
     display: none;
     font-size: 30px;
@@ -476,7 +476,7 @@ select:focus {
 }
 
 .review-box ul li i {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 12px;
 }
@@ -521,7 +521,7 @@ select:focus {
 }
 
 .top-contact-info li span:before {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 18px;
     line-height: 18px;
@@ -571,7 +571,7 @@ select:focus {
 }
 
 .top-bar-area .top-right .social-links li a:hover i {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -638,7 +638,7 @@ select:focus {
 
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -730,13 +730,13 @@ select:focus {
 }
 
 .main-menu .navigation > li > ul > li:hover > a {
-    color: #0575E6;
+    color: #034DB5;
     ;
     background: #f7f7f7;
 }
 
 .main-menu .navigation > li > ul > li:hover > a:before {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1122,7 +1122,7 @@ select:focus {
 }
 
 .single-service-item .text-holder .title:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1257,7 +1257,7 @@ select:focus {
 }
 
 .service-area .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
     transition: .5s ease;
 }
@@ -1296,7 +1296,7 @@ select:focus {
 }
 
 .about-area .text-holder .bottom-text span {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 20px;
     font-weight: 400;
@@ -1347,7 +1347,7 @@ select:focus {
 
 .about-area .promotion-box .singel-box .top .icon-holder span:before {
     font-size: 35px;
-    color: #0575E6;
+    color: #034DB5;
     ;
     line-height: 35px;
 }
@@ -1504,7 +1504,7 @@ select:focus {
     top: 0px;
     line-height: 24px;
     font-size: 1.5rem;
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1579,7 +1579,7 @@ select:focus {
 .consultations-area .request-form .text p i {
     display: inline-block;
     padding-right: 10px;
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1709,7 +1709,7 @@ select:focus {
 }
 
 .single-blog-item .text-holder .meta-info li a:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1724,7 +1724,7 @@ select:focus {
 }
 
 .single-blog-item .text-holder .blog-title:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1752,7 +1752,7 @@ select:focus {
 }
 
 .single-blog-item .text-holder .bottom .left a:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -1921,14 +1921,14 @@ select:focus {
 }
 
 .accordion-box .accordion .accord-btn.active h4 {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
 .accordion-box .accordion .accord-btn.active:after {
     content: "\f10b";
     border: 2px solid var(--gradient-15, linear-gradient(66deg, #0575E6 7.14%, #0342A9 90.07%)) !important;
-    color: #0575E6;
+    color: #034DB5;
     ;
     background: transparent;
 }
@@ -1974,7 +1974,7 @@ select:focus {
 }
 
 .brand-area .tooltip.top .tooltip-arrow {
-    border-top-color: #0575E6;
+    border-top-color: #034DB5;
 }
 
 .brand-area .brand .owl-stage-outer {
@@ -2031,7 +2031,7 @@ select:focus {
 
 .brand-area .owl-theme .owl-nav [class*="owl-"]:hover {
     border-color: #034DB5;
-    color: #0575E6;
+    color: #034DB5;
 }
 
 
@@ -2129,7 +2129,7 @@ select:focus {
 }
 
 .single-footer-widget .usefull-links li a:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -2201,7 +2201,7 @@ select:focus {
 }
 
 .single-footer-widget .latest-post .single-post .text-holder a.post-title:hover {
-    color: #0575E6;
+    color: #034DB5;
 }
 
 .single-footer-widget .latest-post .single-post .text-holder .post-info {
@@ -2210,13 +2210,13 @@ select:focus {
 }
 
 .single-footer-widget .latest-post .single-post .text-holder .post-info span {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 15px;
 }
 
 .single-footer-widget .latest-more-news a {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 14px;
     font-weight: 600;
@@ -2226,7 +2226,7 @@ select:focus {
 }
 
 .single-footer-widget .latest-more-news a:hover {
-    color: #0575E6;
+    color: #034DB5;
 }
 
 .single-footer-widget .latest-more-news {
@@ -2324,7 +2324,7 @@ select:focus {
 }
 
 .single-footer-widget .newsletter-box form.newsletter-form .envelope i {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 14px;
     display: block;
@@ -2388,7 +2388,7 @@ select:focus {
 
 .copyright-text p a {
     font-weight: 500;
-    color: #0575E6;
+    color: #034DB5;
     ;
     transition: all 500ms ease;
 }
@@ -2438,7 +2438,7 @@ select:focus {
 }
 
 .breadcrumb-area::before {
-    background: rgba(27, 48, 83, 0.90) none repeat scroll 0 0;
+    /* background: #9bc1f5 none repeat scroll 0 0; */
     background-position: center top;
     content: "";
     height: 100%;
@@ -2500,7 +2500,7 @@ select:focus {
 }
 
 .breadcrumb-bottom-area .left ul li.active {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -2509,12 +2509,12 @@ select:focus {
 }
 
 .breadcrumb-bottom-area .left ul li a:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
 .breadcrumb-bottom-area .right span {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 18px;
     font-weight: 400;
@@ -2614,7 +2614,7 @@ select:focus {
 }
 
 .smart-approach-area .single-item .inner-content .iocn-holder span:before {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 45px;
     line-height: 55px;
@@ -2638,7 +2638,7 @@ select:focus {
 }
 
 .smart-approach-area .single-item .inner-content .title-holder p {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
 }
@@ -2677,7 +2677,7 @@ select:focus {
 }
 
 .smart-approach-area .single-item .overlay-content .box .content b {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     font-weight: 400;
@@ -2854,7 +2854,7 @@ select:focus {
 }
 
 .achivements-area .single-item {
-    border: 2px solid #ddd9d9;
+    /* border: 2px solid #ddd9d9; */
     transition: all 500ms ease;
 }
 
@@ -2892,7 +2892,7 @@ select:focus {
 }
 
 .achivements-area .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
     transition: .5s ease;
 }
@@ -3067,7 +3067,7 @@ select:focus {
 }
 
 .team-area .single-team-member .text-holder span {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     font-weight: 400;
@@ -3159,7 +3159,7 @@ select:focus {
 }
 
 .testimonial-section .single-testimonial-item .client-info p {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     margin: 0;
@@ -3308,7 +3308,7 @@ select:focus {
 }
 
 .single-sidebar .categories li a:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -3542,7 +3542,7 @@ select:focus {
 }
 
 .blog-large-area .blog-post .single-blog-item .text-holder span {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 14px;
     font-weight: 500;
@@ -3569,7 +3569,7 @@ select:focus {
     border: 2px solid #f4f4f4;
     height: 50px;
     width: 165px;
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 14px;
     font-weight: 700;
@@ -3680,7 +3680,7 @@ select:focus {
 }
 
 .blog-single-area .middle-content-box .text-holder h5 {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     font-weight: 400;
@@ -3699,7 +3699,7 @@ select:focus {
 }
 
 .blog-single-area .tag-social-share-box .tag p {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     margin: 0;
@@ -3816,7 +3816,7 @@ select:focus {
 }
 
 .blog-single-area .author-box .text-holder .social-link li a:hover i {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -3873,7 +3873,7 @@ select:focus {
 }
 
 .blog-single-area .comment-box .single-comment-box .text-holder .top .review-box ul li i {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 14px;
 }
@@ -3924,7 +3924,7 @@ select:focus {
 }
 
 .blog-single-area .add-comment-box .add-rating-box ul li a:hover i {
-    color: #0575E6;
+    color: #034DB5;
     ;
     transition: all 500ms ease;
 }
@@ -4007,7 +4007,7 @@ select:focus {
 }
 
 .get-touch-area .single-item .icon-holder span:before {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 50px;
 }
@@ -4033,7 +4033,7 @@ select:focus {
 }
 
 .get-touch-area .single-item .text-holder p a {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -4138,7 +4138,7 @@ select:focus {
 }
 
 .contact-author-info ul li .text-holder h5 {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     font-weight: 400;
@@ -4151,7 +4151,7 @@ select:focus {
 }
 
 .contact-author-info ul li .text-holder p span:before {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 13px;
     display: inline-block;
@@ -4259,7 +4259,7 @@ select:focus {
 }
 
 .project-single-area .project-info ul li {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 1.5rem;
     margin-bottom: 15px;
@@ -4292,7 +4292,7 @@ select:focus {
 }
 
 .project-single-area .legal-work-content span {
-    color: #0575E6;
+    color: #034DB5;
     ;
     margin: 0;
 }
@@ -4371,7 +4371,7 @@ select:focus {
     height: 42px;
     width: 120px;
     display: inline-block;
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 15px;
     font-weight: 700;
@@ -4613,7 +4613,7 @@ select:focus {
 }
 
 #single-service-area .content-box .specific-services .single-item .icon-holder span:before {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 32px;
     font-weight: 600;
@@ -4647,7 +4647,7 @@ select:focus {
     width: 140px;
     border-radius: 4px;
     display: block;
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 15px;
     font-weight: 500;
@@ -4686,7 +4686,7 @@ select:focus {
 #single-service-area .content-box .benefits-service-content .text-holder ul li i {
     display: inline-block;
     padding-right: 13px;
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-weight: 600;
 }
@@ -4902,7 +4902,7 @@ select:focus {
 }
 
 .single-product-item .title-holder .product-value {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 15px;
     font-weight: 400;
@@ -4937,7 +4937,7 @@ select:focus {
 }
 
 .single-product-item .title-holder .botton .product-cart a:hover {
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -5104,7 +5104,7 @@ select:focus {
 }
 
 .sidebar-wrapper .single-sidebar .popular-product li .title-holder h5 {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 15px;
     font-weight: 400;
@@ -5131,7 +5131,7 @@ select:focus {
 }
 
 .sidebar-wrapper .single-sidebar .popular-product li:hover .title-holder h4 {
-    color: #0575E6;
+    color: #034DB5;
 }
 
 .sidebar-wrapper .single-sidebar .product-tag {
@@ -5200,13 +5200,13 @@ select:focus {
 .single-shop-content .content-box .review-box ul li {}
 
 .single-shop-content .content-box .review-box ul li i {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 15px;
 }
 
 .single-shop-content .content-box span.price {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 22px;
     font-weight: 400;
@@ -5268,7 +5268,7 @@ select:focus {
 }
 
 .single-shop-content .content-box .location-box form span {
-    color: #0575E6;
+    color: #034DB5;
 }
 
 .single-shop-content .content-box .addto-cart-box {}
@@ -5359,7 +5359,7 @@ select:focus {
 .product-tab-box .tab-menu li.active a,
 .product-tab-box .tab-menu li:hover a {
     background: #ffffff;
-    color: #0575E6;
+    color: #034DB5;
     border-left-color: #ececec;
     border-top-color: #ececec;
     border-right-color: #ececec;
@@ -5429,7 +5429,7 @@ select:focus {
 }
 
 .product-tab-box .tab-content .review-box .single-review-box .text-holder .top .review-box ul li i {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-size: 14px;
 }
@@ -5518,7 +5518,7 @@ select:focus {
 
 .product-tab-box .tab-content .review-form .add-rating-box ul li:hover a i {
     opacity: 1;
-    color: #0575E6;
+    color: #034DB5;
     ;
 }
 
@@ -5725,7 +5725,7 @@ select:focus {
 }
 
 .cart-area .cart-table tbody tr .sub-total {
-    color: #0575E6;
+    color: #034DB5;
     ;
     font-weight: 400;
     font-size: 18px;
@@ -5920,7 +5920,7 @@ select:focus {
 }
 
 .checkout-area .exisitng-customer h5 a {
-    color: #0575E6;
+    color: #034DB5;
     display: inline-block;
     padding-left: 15px;
 }
@@ -5951,7 +5951,7 @@ select:focus {
 }
 
 .checkout-area .coupon h5 a {
-    color: #0575E6;
+    color: #034DB5;
     display: inline-block;
     padding-left: 15px;
 }
@@ -5991,7 +5991,7 @@ select:focus {
 }
 
 .checkout-area .create-acc .checkbox label {
-    color: #0575E6;
+    color: #034DB5;
     font-weight: 400;
     font-size: 1.5rem;
 }
@@ -6200,7 +6200,7 @@ select:focus {
 }
 
 .cart-total-table li span.col b {
-    color: #0575E6;
+    color: #034DB5;
     font-weight: 300;
     text-decoration: underline;
 }
@@ -6240,7 +6240,7 @@ select:focus {
 }
 
 .cart-total .payment-options .option-block .checkbox label span b {
-    color: #0575E6;
+    color: #034DB5;
     display: inline-block;
     font-size: 14px;
     font-weight: 400;
@@ -6372,7 +6372,7 @@ select:focus {
 }
 
 .login-register-area .form a.forgot-password {
-    color: #0575E6;
+    color: #034DB5;
     float: right;
     font-weight: 700;
     margin: 20px 0 0;

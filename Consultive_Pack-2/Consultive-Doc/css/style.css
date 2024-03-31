@@ -42,7 +42,7 @@ body {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #0575E6;
+  color: #034DB5;
   transition: all 500ms ease;
   font-weight: 600;
 }
@@ -204,7 +204,7 @@ p {
 #sidebar .menu-box .sticky-menu > ul > li > a:hover,
 #sidebar .menu-box .sticky-menu > ul > li.current > a,
 #sidebar .menu-box .sticky-menu > ul > li.current-menu-item > a {
-  color: #0575E6;
+  color: #034DB5;
 }
 
 #sidebar .copyright {
