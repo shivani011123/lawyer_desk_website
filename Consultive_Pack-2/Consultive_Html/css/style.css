@@ -2438,7 +2438,7 @@ select:focus {
 }
 
 .breadcrumb-area::before {
-    /* background: #9bc1f5 none repeat scroll 0 0; */
+    /* background: #e1eeff none repeat scroll 0 0; */
     background-position: center top;
     content: "";
     height: 100%;
@@ -4608,7 +4608,7 @@ select:focus {
 
 #single-service-area .content-box .specific-services .single-item:hover .icon-holder {
     /* background: var(--gradient-15, linear-gradient(66deg, #0575E6 7.14%, #021B79 90.07%)) !important; */
-    border-color: #034DB5;
+    /* border-color: #034DB5; */
     ;
 }
 
@@ -7168,4 +7168,17 @@ select:focus {
 a.btn-left,
 a.btn-right {
     text-decoration: none;
+}
+
+
+.knowmore {
+    text-align: center !important;
+    color: #034DB5 !important;
+    font-weight: 400;
+    padding: 6px 12px !important;
+    border-radius: 18px !important;
+}
+
+.knowmore:hover {
+    border: 1px solid #034DB5 !important;
 }
